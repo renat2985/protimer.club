@@ -2,7 +2,14 @@
 
 ProTimer.club — это современное решение для спортсменов, позволяющее с высокой точностью измерять время, регистрировать результаты и анализировать их для повышения эффективности тренировок. Наши устройства подходят для различных видов спорта и соревнований, предоставляя пользователям удобство, точность и интеграцию с облаком.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/docs/protimer3.png" height="300px" alt="ProTimer Image 2"><img src="https://github.com/renat2985/protimer.club/blob/main/docs/protimer2.png" height="300px" alt="ProTimer Image 1">
+Вы можете войти с демо-профилем и попробовать все возможности сайта прямо сейчас: https://protimer.club/login#demo
+
+    Email: demo@protimer.club
+    Password: demo 
+
+<img src="https://protimer.club/assets/img/doc7.png" height="300px" alt="ProTimer Image 2"> <img src="https://protimer.club/assets/img/doc11.png" height="300px" alt="ProTimer Image 1">
+<img src="https://protimer.club/assets/img/doc12.png" height="300px" alt="ProTimer Image 2"> <img src="https://protimer.club/assets/img/doc10.png" height="300px" alt="ProTimer Image 2">
+
 
 ## Основные функции
 
@@ -12,36 +19,59 @@ ProTimer.club — это современное решение для спорт
   -	**Социальная сеть:** делитесь своими достижениями и следите за результатами друзей.
   -	**Многофункциональность:** поддержка различных режимов работы и возможностей для командных и индивидуальных тренировок.
 
-## Компоненты системы
+_Почитать подробне о функциях, вы можете [здесь](https://protimer.club/ru/doc)._
 
-### Master Point
-Главный модуль системы, который обеспечивает управление и точное измерение времени.
-**Особенности:**
-  -	Wi-Fi точка доступа для подключения к системе.
-  -	Хронометр с встроенным дисплеем.
-  -	Поддержка режимов BMX Random Gate Start, история результатов, экспорт данных в облако.
-  -	Подключение к электромагнитным барьерам.
 
-### Points (модули)
+## Как это работает
 
-Дополнительные модули для расширения возможностей системы:
-  -	**Упрощенные:** базовые функции для индивидуального использования.
-  -	**PRO:** с дисплеем, выбором канала связи и дополнительными режимами.
+### Master Point — это главный модуль системы, который управляет всей сетью устройств ProTimer.
 
-#### Start, Interim и Finish Points
+<img src="https://protimer.club/assets/img/doc28.png" height="400px" align="left">
 
-Модули для начала, промежуточных отсечек и завершения измерений:
-  -	Поддерживают до 15 промежуточных точек.
-  -	Работают на расстоянии до 250 метров от Master Point.
+1.	**Включение и подключение:**
+     
+    - Включите Master Point, он создаст Wi-Fi сеть (название указано на устройстве).
+    - Подключитесь к этой сети с помощью смартфона, планшета или ноутбука.
+ 
+2.	**Доступ к управлению:**
+ 
+    - Откройте браузер и введите IP-адрес (например, 192.168.4.1) для доступа к веб-интерфейсу.
+    - Используйте интерфейс для настройки режимов работы, управления таймером и экспорта данных.
 
-#### PRO Point
+Дисплей устройства:
 
-Расширенный модуль с дисплеем для профессионального использования.
-**Режимы работы:**
-  -	Старт
-  -	Промежуточный отсчет
-  -	Финиш
-  -	BMX Random Gate Start
+<img src="https://protimer.club/assets/img/doc14.png" width="200px"> <img src="https://protimer.club/assets/img/doc13.png" width="200px"> <img src="https://protimer.club/assets/img/doc25.png" width="200px"> <img src="https://protimer.club/assets/img/doc15.png" width="200px">
+
+_Подробней можно почитать [здесь](https://protimer.club/ru/doc#doc5)._
+
+### Point PRO — это дополнительный модуль, который может выполнять функции старта, промежуточной точки или финиша.
+
+<img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px" align="left">
+
+1.	**Режимы работы:**
+
+    - Старт: запускает таймер при пересечении луча между датчиком и отражателем.
+    - Промежуточный: фиксирует время прохождения между точками.
+    - Финиш: останавливает таймер при пересечении луча.
+
+3.	**Подключение к Master Point:**
+
+    - Point PRO автоматически синхронизируется с Master Point на расстоянии до 250 м.
+    - Используйте встроенный дисплей Point PRO для проверки связи и выбора режима.
+
+3.	**Особенности Point PRO:**
+
+    - Оснащен дисплеем для отображения текущего состояния.
+    - Поддерживает переключение между несколькими каналами, что позволяет использовать несколько комплектов на одной трассе.
+    - Высокая точность измерения — до 0,003 секунды.
+
+Дисплей устройства:
+
+<img src="https://protimer.club/assets/img/doc23.png" width="200px"> <img src="https://protimer.club/assets/img/doc22.png" width="200px"> <img src="https://protimer.club/assets/img/doc24.png" width="200px">
+
+_Подробней можно почитать [здесь](https://protimer.club/ru/doc#doc5)._
+
+#### Point PRO и Master Point работают в связке, обеспечивая спортсменам и тренерам полный контроль над тренировками и точность результата.
 
 
 ## Контакты
@@ -51,14 +81,10 @@ ProTimer.club — это современное решение для спорт
 Так же на сайте представлены готовые комплекты оборудования с возможностью индивидуальной настройки и добавления модулей.
 
 
-ProTimer.club — ваш надежный партнер в достижении спортивных целей!
-
-
 ## Схема подключения
-NodeMCU ESP8266. Эта схема подходит как Master устройству, так и Point (PRO). Просто выберите нужный линк для утановки програмного обеспечения ниже.
+Вы можете собрать устройство на базе NodeMCU ESP8266 или Wemos ESP8266. Эта схема подходит к Master устройству и Point (PRO). Просто выберите нужный линк для утановки програмного обеспечения ниже.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic.png" width="600px">
-
+<img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic.png" width="300px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic2.png" width="300px" alt="Connection Diagram 2">
 
 ## STL (stl папка)
 Держатели для отражателя который крепится на шатив. Лучше покупать круглые отражатели у них дальность работы выше чем у квадратных.
@@ -67,13 +93,13 @@ NodeMCU ESP8266. Эта схема подходит как Master устройс
 
 ### AliExpress.com
 
-<sup>https://www.aliexpress.com/item/1005004123351251.html </sup>
+<sup>https://www.aliexpress.com/item/1005004123351251.html  - E3Z-R61 </sup>
 
 <sup>https://www.aliexpress.com/item/1005004177317958.html </sup>
 
-<sup>https://www.aliexpress.com/item/32990489226.html </sup>
+<sup>https://www.aliexpress.com/item/32990489226.html - Этот лучше </sup>
 
-<sup>https://www.aliexpress.com/item/1005003584568763.html </sup>
+<sup>https://www.aliexpress.com/item/1005003584568763.html - Этот хуже </sup>
 
 <sup>https://www.aliexpress.com/item/1005004118377699.html </sup>
 
