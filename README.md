@@ -1,6 +1,6 @@
 [🇷🇺 Русская версия документации здесь](https://github.com/renat2985/protimer.club/blob/main/README_RU.md)
 
-# ProTimer.club
+#  ProTimer.club - Your Personal Performance Archive!
 
 **ProTimer.club** is a modern solution for athletes, offering precise time measurement, result recording, and analysis to enhance training efficiency. Our devices are suitable for various sports and competitions, providing convenience, accuracy, and cloud integration.
 
@@ -9,8 +9,7 @@ You can log in with a demo profile and explore all the website features right no
     Email: demo@protimer.club
     Password: demo 
 
-<img src="https://protimer.club/assets/img/doc7.png" height="300px" alt="ProTimer Image 2"> <img src="https://protimer.club/assets/img/doc11.png" height="300px" alt="ProTimer Image 1">
-<img src="https://protimer.club/assets/img/doc12.png" height="300px" alt="ProTimer Image 2"> <img src="https://protimer.club/assets/img/doc10.png" height="300px" alt="ProTimer Image 2">
+[![IMAGE ALT TEXT HERE](https://github.com/renat2985/protimer.club/blob/main/docs/intro.png)](https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX)
 
 ## Key Features
 
@@ -112,6 +111,8 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 <sup>https://www.aliexpress.com/item/1005003584568763.html - Good.</sup>
 
 <sup>https://www.aliexpress.com/item/1005004118377699.html </sup> 
+
+<sup>https://www.aliexpress.com/item/1005002367815544.html </sup> 
 
 ## Web Installer (Recommended)
 

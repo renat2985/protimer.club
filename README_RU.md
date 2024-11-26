@@ -1,4 +1,4 @@
-# ProTimer.club
+#  ProTimer.club - Ваш личный архив результатов тренировок!
 
 ProTimer.club — это современное решение для спортсменов, позволяющее с высокой точностью измерять время, регистрировать результаты и анализировать их для повышения эффективности тренировок. Наши устройства подходят для различных видов спорта и соревнований, предоставляя пользователям удобство, точность и интеграцию с облаком.
 
@@ -7,9 +7,7 @@ ProTimer.club — это современное решение для спорт
     Email: demo@protimer.club
     Password: demo 
 
-<img src="https://protimer.club/assets/img/doc7.png" height="300px" alt="ProTimer Image 2"> <img src="https://protimer.club/assets/img/doc11.png" height="300px" alt="ProTimer Image 1">
-<img src="https://protimer.club/assets/img/doc12.png" height="300px" alt="ProTimer Image 2"> <img src="https://protimer.club/assets/img/doc10.png" height="300px" alt="ProTimer Image 2">
-
+[![IMAGE ALT TEXT HERE](https://github.com/renat2985/protimer.club/blob/main/docs/intro.png)](https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX)
 
 ## Основные функции
 
@@ -102,6 +100,8 @@ _Подробней можно почитать [здесь](https://protimer.cl
 <sup>https://www.aliexpress.com/item/1005003584568763.html - Этот хуже </sup>
 
 <sup>https://www.aliexpress.com/item/1005004118377699.html </sup>
+
+<sup>https://www.aliexpress.com/item/1005002367815544.html </sup> 
 
 
 # Web installer (recommended)
