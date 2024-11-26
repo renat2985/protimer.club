@@ -21,7 +21,7 @@ You can log in with a demo profile and explore all the website features right no
   - **Social network:** Share achievements and follow the progress of your friends.
   - **Versatility:** Support for various modes and features for team and individual training.
 
-_Learn more about the features [here](https://protimer.club/ru/doc)._
+_Learn more about the features [here](https://protimer.club/en/doc)._
 
 ---
 
@@ -29,23 +29,25 @@ _Learn more about the features [here](https://protimer.club/ru/doc)._
 
 ### Master Point — The main module of the system that manages the ProTimer network.
 
-<img src="https://protimer.club/assets/img/doc28.png" height="400px" align="left">
-
 1. **Power On and Connect:**
 
     - Turn on the Master Point; it will create a Wi-Fi network (the name is listed on the device).
     - Connect to this network using your smartphone, tablet, or laptop.
+
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/WiFi.png" height="200px">
 
 2. **Access the Control Interface:**
 
     - Open a browser and enter the IP address (e.g., `192.168.4.1`) to access the web interface.
     - Use the interface to configure modes, control the timer, and export data.
 
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px">
+
 **Device Display:**
 
 <img src="https://protimer.club/assets/img/doc14.png" width="200px"> <img src="https://protimer.club/assets/img/doc13.png" width="200px"> <img src="https://protimer.club/assets/img/doc25.png" width="200px"> <img src="https://protimer.club/assets/img/doc15.png" width="200px">
 
-_Read more details [here](https://protimer.club/ru/doc#doc5)._
+_Read more details [here](https://protimer.club/en/doc#doc5)._
 
 
 ### Point PRO — An additional module that serves as a start, intermediate, or finish point.
@@ -73,7 +75,7 @@ _Read more details [here](https://protimer.club/ru/doc#doc5)._
 
 <img src="https://protimer.club/assets/img/doc23.png" width="200px"> <img src="https://protimer.club/assets/img/doc22.png" width="200px"> <img src="https://protimer.club/assets/img/doc24.png" width="200px">
 
-_Read more details [here](https://protimer.club/ru/doc#doc5)._
+_Read more details [here](https://protimer.club/en/doc#doc5)._
 
 #### Point PRO and Master Point work together, giving athletes and coaches full control over training sessions with precise results.
 
@@ -106,17 +108,17 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 
 <sup>https://www.aliexpress.com/item/1005004123351251.html - E3Z-R61</sup>
 
-<sup>https://www.aliexpress.com/item/1005004177317958.html </sup>
+<sup>https://www.aliexpress.com/item/1005004177317958.html - Mini Flexible Sponge Octopus Tripod</sup>
 
-<sup>https://www.aliexpress.com/item/32990489226.html - Very good.</sup>
+<sup>https://www.aliexpress.com/item/32990489226.html - Very good. Reflector</sup>
 
-<sup>https://www.aliexpress.com/item/1005003584568763.html - Good.</sup>
+<sup>https://www.aliexpress.com/item/1005003584568763.html - Good. Reflector</sup>
 
-<sup>https://www.aliexpress.com/item/1005004118377699.html </sup> 
+<sup>https://www.aliexpress.com/item/1005004118377699.html - I2C SSD1315 128x64</sup> 
 
-<sup>https://www.aliexpress.com/item/1005002367815544.html </sup> 
+<sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank for 18650 Battery</sup> 
 
-## Web Installer (Recommended)
+## 🚀 Web Installer (Recommended)
 
 ### Follow the instructions on the web installer page.
 

@@ -26,17 +26,19 @@ _Почитать подробне о функциях, вы можете [зд�
 
 ### Master Point — это главный модуль системы, который управляет всей сетью устройств ProTimer.
 
-<img src="https://protimer.club/assets/img/doc28.png" height="400px" align="left">
-
 1.	**Включение и подключение:**
      
     - Включите Master Point, он создаст Wi-Fi сеть (название указано на устройстве).
     - Подключитесь к этой сети с помощью смартфона, планшета или ноутбука.
+
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/WiFi.png" height="200px">
  
 2.	**Доступ к управлению:**
  
     - Откройте браузер и введите IP-адрес (например, 192.168.4.1) для доступа к веб-интерфейсу.
     - Используйте интерфейс для настройки режимов работы, управления таймером и экспорта данных.
+
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px">
 
 Дисплей устройства:
 
@@ -95,18 +97,19 @@ _Подробней можно почитать [здесь](https://protimer.cl
 
 <sup>https://www.aliexpress.com/item/1005004123351251.html  - E3Z-R61 </sup>
 
-<sup>https://www.aliexpress.com/item/1005004177317958.html </sup>
+<sup>https://www.aliexpress.com/item/1005004177317958.html - Mini Flexible Sponge Octopus Tripod</sup>
 
-<sup>https://www.aliexpress.com/item/32990489226.html - Этот лучше </sup>
+<sup>https://www.aliexpress.com/item/32990489226.html - Reflector (Этот лучше)</sup>
 
-<sup>https://www.aliexpress.com/item/1005003584568763.html - Этот хуже </sup>
+<sup>https://www.aliexpress.com/item/1005003584568763.html - Reflector (Этот хуже) </sup>
 
-<sup>https://www.aliexpress.com/item/1005004118377699.html </sup>
+<sup>https://www.aliexpress.com/item/1005004118377699.html - I2C SSD1315 12x64</sup>
 
-<sup>https://www.aliexpress.com/item/1005002367815544.html </sup> 
+<sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank for 18650 Battery</sup> 
 
+<sup>https://www.aliexpress.com/item/1005004893349830.html - NodeMCU ESP8266</sup> 
 
-# Web installer (recommended)
+## 🚀 Web installer (recommended)
 
 ### Go to the web installer and follow instructions.
 
