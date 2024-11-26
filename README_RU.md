@@ -2,7 +2,7 @@
 
 ProTimer.club — это современное решение для спортсменов, позволяющее с высокой точностью измерять время, регистрировать результаты и анализировать их для повышения эффективности тренировок. Наши устройства подходят для различных видов спорта и соревнований, предоставляя пользователям удобство, точность и интеграцию с облаком.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/protimer2.png" height="250px" alt="ProTimer Image 1"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/protimer3.png" width="250px" alt="ProTimer Image 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/protimer3.png" height="250px" alt="ProTimer Image 2"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/protimer2.png" height="250px" alt="ProTimer Image 1">
 
 ## Основные функции
 
@@ -57,7 +57,7 @@ ProTimer.club — ваш надежный партнер в достижении
 ## Схема подключения
 NodeMCU ESP8266. Эта схема подходит как Master устройству, так и Point (PRO). Просто выберите нужный линк для утановки програмного обеспечения ниже.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" width="400px">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" width="500px">
 
 
 ## STL (stl папка)

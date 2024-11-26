@@ -1,0 +1,13 @@
+{
+  "name": "protimer.club - Point",
+  "version": "1.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "../build/esp8266.esp8266.generic/upgrade_point128x64.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
