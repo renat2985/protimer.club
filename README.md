@@ -4,7 +4,7 @@
 
 **ProTimer.club** is a modern solution for athletes, providing precise time measurement, result recording, and analysis to enhance training efficiency. Our devices are suitable for various sports and competitions, offering convenience, accuracy, and cloud integration to users.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/protimer3.png" height="250px" alt="ProTimer Image 2"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/protimer2.png" height="250px" alt="ProTimer Image 1">
+<img src="https://github.com/renat2985/protimer.club/blob/main/docs/protimer3.png" height="300px" alt="ProTimer Image 2"><img src="https://github.com/renat2985/protimer.club/blob/main/docs/protimer2.png" height="300px" alt="ProTimer Image 1">
 
 ## Key Features
 
@@ -56,13 +56,13 @@ Ready-made equipment kits with customization options and additional modules are 
 
 NodeMCU ESP8266: This diagram works for both the Master and Point (PRO) devices. Select the appropriate link below to install the software.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" width="500px" alt="Connection Diagram">
+<img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic.png" width="600px" alt="Connection Diagram">
 
 ## STL (STL Folder)
 
 Holders for reflectors that can be attached to tripods. It's recommended to use round reflectors as they perform better than square ones.  
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="250px" alt="Reflector Holder 1"><img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="250px" alt="Reflector Holder 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 1"><img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 2">
 
 
 ### From AliExpress.com
