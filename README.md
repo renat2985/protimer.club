@@ -34,7 +34,7 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
     - Turn on the Master Point; it will create a Wi-Fi network (the name is listed on the device).
     - Connect to this network using your smartphone, tablet, or laptop.
 
-        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/WiFi.png" height="200px">
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/wifi.png" height="300px">
 
 2. **Access the Control Interface:**
 
@@ -52,8 +52,6 @@ _Read more details [here](https://protimer.club/en/doc#doc5)._
 
 ### Point PRO — An additional module that serves as a start, intermediate, or finish point.
 
-<img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px" align="left">
-
 1. **Operating Modes:**
 
     - **Start:** Starts the timer when the beam between the sensor and the reflector is crossed.
@@ -70,6 +68,8 @@ _Read more details [here](https://protimer.club/en/doc#doc5)._
     - Equipped with a display for real-time status updates.
     - Supports multiple channels for simultaneous use of multiple sets on one track.
     - High measurement accuracy of up to 0.003 seconds.
+
+    <img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px">
 
 **Device Display:**
 
