@@ -89,9 +89,9 @@ _Подробней можно почитать [здесь](https://protimer.cl
 ## STL (stl папка)
 Держатели для отражателя который крепится на шатив. Лучше покупать круглые отражатели у них дальность работы выше чем у квадратных.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 1"><img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 1"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 2">
 
-### AliExpress.com
+## AliExpress.com
 
 <sup>https://www.aliexpress.com/item/1005004123351251.html  - E3Z-R61 </sup>
 

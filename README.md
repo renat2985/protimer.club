@@ -98,10 +98,10 @@ You can build the device using NodeMCU ESP8266 or Wemos ESP8266. This diagram ap
 
 Holders for reflectors that can be attached to tripods. It is recommended to use round reflectors as they offer better range compared to square ones.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 1"><img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 1"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 2">
 
 
-### From AliExpress.com
+## From AliExpress.com
 
 <sup>https://www.aliexpress.com/item/1005004123351251.html - E3Z-R61</sup>
 
@@ -127,5 +127,3 @@ If you like this project, you can support us by buying a cup of coffee! ☕
 <img src="https://github.com/renat2985/renat2985/raw/main/donate/donate.png" width="100%" alt="Donate Image">
 
 - **PayPal:** [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
-
-This text has been carefully formatted in Markdown for clarity and easy reading on GitHub. It includes headings, bullet points, images, and links while maintaining a professional tone.
