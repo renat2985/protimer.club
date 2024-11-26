@@ -10,7 +10,7 @@ You can log in with a demo profile and explore all the website features right no
     Password: demo 
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"></a>
+<a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"><img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px"></a>
 </p>
 
 ## Key Features
@@ -74,8 +74,6 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
     - Equipped with a display for real-time status updates.
     - Supports multiple channels for simultaneous use of multiple sets on one track.
     - High measurement accuracy of up to 0.003 seconds.
-
-    <img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px">
 
     **Device Display:**
 

@@ -8,7 +8,7 @@ ProTimer.club — это современное решение для спорт
     Password: demo 
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"></a>
+<a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"><img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px"></a>
 </p>
 
 ## Основные функции
@@ -71,9 +71,7 @@ _Почитать подробне о функциях, вы можете [зд�
     - Поддерживает переключение между несколькими каналами, что позволяет использовать несколько комплектов на одной трассе.
     - Высокая точность измерения — до 0,003 секунды.
 
-    <img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px">
-
-    Дисплей устройства:
+    **Дисплей устройства:**
 
     <img src="https://protimer.club/assets/img/doc23.png" height="100px"> <img src="https://protimer.club/assets/img/doc22.png" height="100px"> <img src="https://protimer.club/assets/img/doc24.png" height="100px">
 
