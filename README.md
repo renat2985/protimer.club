@@ -9,7 +9,9 @@ You can log in with a demo profile and explore all the website features right no
     Email: demo@protimer.club
     Password: demo 
 
-[![IMAGE ALT TEXT HERE](https://github.com/renat2985/protimer.club/blob/main/docs/intro.png)](https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"></a>
+</p>
 
 ## Key Features
 
@@ -89,7 +91,7 @@ Ready-made equipment kits with customization options and additional modules are 
 
 You can build the device using NodeMCU ESP8266 or Wemos ESP8266. This diagram applies to both the Master and Point (PRO) devices. Choose the appropriate software link below for installation.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic.png" width="300px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic2.png" width="300px" alt="Connection Diagram 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" width="300px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" width="300px" alt="Connection Diagram 2">
 
 ---
 

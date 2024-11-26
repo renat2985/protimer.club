@@ -7,7 +7,9 @@ ProTimer.club — это современное решение для спорт
     Email: demo@protimer.club
     Password: demo 
 
-[![IMAGE ALT TEXT HERE](https://github.com/renat2985/protimer.club/blob/main/docs/intro.png)](https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"></a>
+</p>
 
 ## Основные функции
 
@@ -82,7 +84,7 @@ _Подробней можно почитать [здесь](https://protimer.cl
 ## Схема подключения
 Вы можете собрать устройство на базе NodeMCU ESP8266 или Wemos ESP8266. Эта схема подходит к Master устройству и Point (PRO). Просто выберите нужный линк для утановки програмного обеспечения ниже.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic.png" width="300px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/docs/schematic2.png" width="300px" alt="Connection Diagram 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" width="300px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" width="300px" alt="Connection Diagram 2">
 
 ## STL (stl папка)
 Держатели для отражателя который крепится на шатив. Лучше покупать круглые отражатели у них дальность работы выше чем у квадратных.
