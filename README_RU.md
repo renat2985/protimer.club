@@ -40,11 +40,11 @@ _Почитать подробне о функциях, вы можете [зд�
 
         <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px">
 
-Дисплей устройства:
+    Дисплей устройства:
 
-<img src="https://protimer.club/assets/img/doc14.png" width="200px"> <img src="https://protimer.club/assets/img/doc13.png" width="200px"> <img src="https://protimer.club/assets/img/doc25.png" width="200px"> <img src="https://protimer.club/assets/img/doc15.png" width="200px">
+    <img src="https://protimer.club/assets/img/doc14.png" width="200px"> <img src="https://protimer.club/assets/img/doc13.png" width="200px"> <img src="https://protimer.club/assets/img/doc25.png" width="200px"> <img src="https://protimer.club/assets/img/doc15.png" width="200px">
 
-_Подробней можно почитать [здесь](https://protimer.club/ru/doc#doc5)._
+    _Подробней можно почитать [здесь](https://protimer.club/ru/doc#doc5)._
 
 ### Point PRO — это дополнительный модуль, который может выполнять функции старта, промежуточной точки или финиша.
 
@@ -67,13 +67,13 @@ _Подробней можно почитать [здесь](https://protimer.cl
 
     <img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px">
 
-Дисплей устройства:
+    Дисплей устройства:
 
-<img src="https://protimer.club/assets/img/doc23.png" width="200px"> <img src="https://protimer.club/assets/img/doc22.png" width="200px"> <img src="https://protimer.club/assets/img/doc24.png" width="200px">
+    <img src="https://protimer.club/assets/img/doc23.png" width="200px"> <img src="https://protimer.club/assets/img/doc22.png" width="200px"> <img src="https://protimer.club/assets/img/doc24.png" width="200px">
 
-_Подробней можно почитать [здесь](https://protimer.club/ru/doc#doc5)._
+    _Подробней можно почитать [здесь](https://protimer.club/ru/doc#doc5)._
 
-#### Point PRO и Master Point работают в связке, обеспечивая спортсменам и тренерам полный контроль над тренировками и точность результата.
+#### ⚠️ Point PRO и Master Point работают в связке, обеспечивая спортсменам и тренерам полный контроль над тренировками и точность результата.
 
 
 ## Контакты

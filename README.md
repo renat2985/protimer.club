@@ -43,11 +43,11 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
 
         <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px">
 
-**Device Display:**
+    **Device Display:**
 
-<img src="https://protimer.club/assets/img/doc14.png" width="200px"> <img src="https://protimer.club/assets/img/doc13.png" width="200px"> <img src="https://protimer.club/assets/img/doc25.png" width="200px"> <img src="https://protimer.club/assets/img/doc15.png" width="200px">
+    <img src="https://protimer.club/assets/img/doc14.png" width="200px"> <img src="https://protimer.club/assets/img/doc13.png" width="200px"> <img src="https://protimer.club/assets/img/doc25.png" width="200px"> <img src="https://protimer.club/assets/img/doc15.png" width="200px">
 
-_Read more details [here](https://protimer.club/en/doc#doc5)._
+    _Read more details [here](https://protimer.club/en/doc#doc5)._
 
 
 ### Point PRO — An additional module that serves as a start, intermediate, or finish point.
@@ -71,13 +71,13 @@ _Read more details [here](https://protimer.club/en/doc#doc5)._
 
     <img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px">
 
-**Device Display:**
+    **Device Display:**
 
-<img src="https://protimer.club/assets/img/doc23.png" width="200px"> <img src="https://protimer.club/assets/img/doc22.png" width="200px"> <img src="https://protimer.club/assets/img/doc24.png" width="200px">
+    <img src="https://protimer.club/assets/img/doc23.png" width="200px"> <img src="https://protimer.club/assets/img/doc22.png" width="200px"> <img src="https://protimer.club/assets/img/doc24.png" width="200px">
 
-_Read more details [here](https://protimer.club/en/doc#doc5)._
+    _Read more details [here](https://protimer.club/en/doc#doc5)._
 
-#### Point PRO and Master Point work together, giving athletes and coaches full control over training sessions with precise results.
+#### ⚠️ Point PRO and Master Point work together, giving athletes and coaches full control over training sessions with precise results.
 
 ---
 
