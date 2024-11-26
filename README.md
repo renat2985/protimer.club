@@ -38,10 +38,16 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
 
 2. **Access the Control Interface:**
 
-    - Open a browser and enter the IP address (e.g., `192.168.4.1`) to access the web interface.
+    - Open a browser and enter the address `http://192.168.4.1` to access the web interface.
     - Use the interface to configure modes, control the timer, and export data.
 
         <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px">
+
+3. **Connecting to the Router:**
+
+    - During the first setup, the device will ask for your home Wi-Fi network name and password. This is required for automatic data export to the cloud.
+    - Once configured, the device will automatically connect to the specified router every time it is powered on and upload your data to the ProTimer.club cloud.
+    - This means that after your training session, you just need to turn on the device for a few seconds — it will connect to Wi-Fi and export all your results automatically. Simple and convenient!
 
     **Device Display:**
 
