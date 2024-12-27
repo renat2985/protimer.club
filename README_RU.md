@@ -7,6 +7,8 @@ ProTimer.club — это современное решение для спорт
     Email: demo@protimer.club
     Password: demo 
 
+А вот пример того, как вы можете делиться своей страницей и показывать свои результаты всем, даже незарегистрированным пользователям: https://protimer.club/share/MzlLRDlaT1hnMTNaeEVZbnFSTTNHUT09
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"><img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px"></a>
 </p>

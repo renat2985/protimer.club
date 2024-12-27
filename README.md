@@ -9,6 +9,8 @@ You can log in with a demo profile and explore all the website features right no
     Email: demo@protimer.club
     Password: demo 
 
+Here’s a link showcasing how you can share your page and display your results to anyone, even those who are not registered on the site: https://protimer.club/share/MzlLRDlaT1hnMTNaeEVZbnFSTTNHUT09
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=7RWEwh4FOdk&list=PL6NJTNxbvy-KKb5Vj-JgzeaAFMx-zqKtX"><img src="https://github.com/renat2985/protimer.club/blob/main/doc/intro.png" height="400px"><img src="https://protimer.club/assets/img/photo/gg-07670-min.png" height="400px"></a>
 </p>
