@@ -1,6 +1,6 @@
 [🇷🇺 Русская версия документации здесь](https://github.com/renat2985/protimer.club/blob/main/README_RU.md)
 
-#  ProTimer.club - Your Personal Performance Archive!
+#  Your Personal Performance Archive!
 
 **ProTimer.club** is a modern solution for athletes, offering precise time measurement, result recording, and analysis to enhance training efficiency. Our devices are suitable for various sports and competitions, providing convenience, accuracy, and cloud integration.
 
@@ -43,7 +43,7 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
     - Open a browser and enter the address `http://192.168.4.1` to access the web interface.
     - Use the interface to configure modes, control the timer, and export data.
 
-        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP3.png" height="400px">
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP3.png" height="400px">
 
 3. **Connecting to the Router:**
 
@@ -123,6 +123,11 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 <sup>https://www.aliexpress.com/item/1005004118377699.html - I2C SSD1315 128x64</sup> 
 
 <sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank for 18650 Battery</sup> 
+
+<sup>https://www.aliexpress.com/item/1005001621784437.html - Wemos MINI PRO 4MB</sup> 
+
+<sup>https://www.aliexpress.com/item/1005004893349830.html - NodeMCU ESP8266</sup> 
+
 
 ## 🚀 Web Installer (Recommended)
 
