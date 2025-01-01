@@ -97,7 +97,7 @@ _Почитать подробне о функциях, вы можете [зд�
 ## STL (stl папка)
 Держатели для отражателя который крепится на шатив. Лучше покупать круглые отражатели у них дальность работы выше чем у квадратных.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
+<img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-cable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
 
 
 ## AliExpress.com
@@ -108,21 +108,19 @@ _Почитать подробне о функциях, вы можете [зд�
 
 [I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)
 
-[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
-
 [Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
-[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)
-
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
-
-[Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) и [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (Для кнопки)
 
 [Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
 
-## 🚀 Web installer (recommended)
+[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
 
-### Go to the web installer and follow instructions.
+[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)
+
+## 🚀 Веб-установщик (рекомендуется)
+
+### Перейдите на веб-установщик и следуйте инструкциям.
 
 ## Master: [https://renat2985.github.io/protimer.club/](https://renat2985.github.io/protimer.club/)
 ## Point (PRO): [https://renat2985.github.io/protimer.club/point.html](https://renat2985.github.io/protimer.club/point.html)
