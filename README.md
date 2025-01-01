@@ -116,9 +116,9 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 or 
 [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m distance, Laser sensor)</sup>  
 
-<sup>[Reflector](https://www.aliexpress.com/item/32990489226.html) (Better)
+<sup>[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Better)
 or 
-[Reflector](https://www.aliexpress.com/item/1005003584568763.html) (Worse)</sup>
+[Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Worse)</sup>
 
 <sup>[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)</sup>  
 
