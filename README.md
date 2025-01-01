@@ -33,7 +33,7 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
 
 1. **Power On and Connect:**
 
-    - Turn on the Master Point; it will create a Wi-Fi network (the name is listed on the device).
+    - Turn on the Master Point; it will create a Wi-Fi network "ProTimer.club".
     - Connect to this network using your smartphone, tablet, or laptop.
 
         <img src="https://github.com/renat2985/protimer.club/blob/main/doc/wifi.png" height="300px">
@@ -105,7 +105,7 @@ You can build the device using NodeMCU ESP8266 or Wemos ESP8266. This diagram ap
 
 ## STL (STL Folder)
 
-Holders for reflectors that can be attached to tripods. It is recommended to use round reflectors as they offer better range compared to square ones.
+All these parts can be found and printed from the stl folder.
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
 

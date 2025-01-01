@@ -30,7 +30,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 1.	**Включение и подключение:**
      
-    - Включите Master Point, он создаст Wi-Fi сеть (название указано на устройстве).
+    - Включите Master Point, он создаст Wi-Fi сеть "ProTimer.club".
     - Подключитесь к этой сети с помощью смартфона, планшета или ноутбука.
 
         <img src="https://github.com/renat2985/protimer.club/blob/main/doc/wifi.png" height="300px">
@@ -95,7 +95,8 @@ _Почитать подробне о функциях, вы можете [зд�
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" width="300px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" width="300px" alt="Connection Diagram 2">
 
 ## STL (stl папка)
-Держатели для отражателя который крепится на шатив. Лучше покупать круглые отражатели у них дальность работы выше чем у квадратных.
+
+Все эти детали вы можете найти и распечатать в папке stl. 
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
 
