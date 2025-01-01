@@ -112,13 +112,9 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 
 ## From AliExpress.com
 
-<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m distance, IR sensor) 
-or 
-[E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m distance, Laser sensor)</sup>  
+<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m distance, IR sensor) or [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m distance, Laser sensor)</sup>  
 
-<sup>[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Better)
-or 
-[Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Worse)</sup>
+<sup>[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Better) or [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Worse)</sup>
 
 <sup>[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)</sup>  
 
@@ -126,9 +122,7 @@ or
 
 <sup>[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
 
-<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) 
-or
-[NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>  
+<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>  
 
 
 ## 🚀 Web Installer (Recommended)

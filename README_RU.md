@@ -101,13 +101,9 @@ _Почитать подробне о функциях, вы можете [зд�
 
 ## AliExpress.com
 
-<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м дистанция, ИК-датчик)  
-или
-[E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м дистанция, лазерный датчик)</sup>  
+<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м дистанция, ИК-датчик) или [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м дистанция, лазерный датчик)</sup>  
 
-<sup>[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Лучше)  
-или  
-[Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)</sup>  
+<sup>[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Лучше) или [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)</sup>  
 
 <sup>[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)</sup>  
 
@@ -115,9 +111,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 <sup>[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
 
-<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html)  
-или
-[NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>    
+<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>    
 
 ## 🚀 Web installer (recommended)
 
