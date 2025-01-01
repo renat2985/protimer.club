@@ -120,9 +120,15 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 
 [Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
 
-[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) or [LOLIN D1 Mini](https://www.aliexpress.com/item/1005008132707012.html) (Suitable for STL case)
+[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) (Suitable for STL case) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) 
 
 [Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)
+
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
+
+[Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html)
+
+[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
 
 
 ## 🚀 Web Installer (Recommended)
