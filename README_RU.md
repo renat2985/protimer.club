@@ -101,21 +101,23 @@ _Почитать подробне о функциях, вы можете [зд�
 
 ## AliExpress.com
 
-<sup>https://www.aliexpress.com/item/1005004123351251.html  - E3Z-R61 </sup>
+<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м дистанция, ИК-датчик)  
+или
+[E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м дистанция, лазерный датчик)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005004177317958.html - Mini Flexible Sponge Octopus Tripod</sup>
+<sup>[Reflector](https://www.aliexpress.com/item/32990489226.html) (Лучше)  
+или  
+[Reflector](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)</sup>  
 
-<sup>https://www.aliexpress.com/item/32990489226.html - Reflector (Этот лучше)</sup>
+<sup>[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005003584568763.html - Reflector (Этот хуже) </sup>
+<sup>[I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005004118377699.html - I2C SSD1315 12x64</sup>
+<sup>[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank for 18650 Battery</sup> 
-
-<sup>https://www.aliexpress.com/item/1005001621784437.html - Wemos MINI PRO 4MB</sup> 
-
-<sup>https://www.aliexpress.com/item/1005004893349830.html - NodeMCU ESP8266</sup>  
+<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html)  
+или
+[NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>    
 
 ## 🚀 Web installer (recommended)
 

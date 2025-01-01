@@ -112,21 +112,23 @@ Holders for reflectors that can be attached to tripods. It is recommended to use
 
 ## From AliExpress.com
 
-<sup>https://www.aliexpress.com/item/1005004123351251.html - E3Z-R61</sup>
+<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m distance, IR sensor) 
+or 
+[E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m distance, Laser sensor)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005004177317958.html - Mini Flexible Sponge Octopus Tripod</sup>
+<sup>[Reflector](https://www.aliexpress.com/item/32990489226.html) (Better)
+or 
+[Reflector](https://www.aliexpress.com/item/1005003584568763.html) (Worse)</sup>
 
-<sup>https://www.aliexpress.com/item/32990489226.html - Very good. Reflector</sup>
+<sup>[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005003584568763.html - Good. Reflector</sup>
+<sup>[I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005004118377699.html - I2C SSD1315 128x64</sup> 
+<sup>[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank for 18650 Battery</sup> 
-
-<sup>https://www.aliexpress.com/item/1005001621784437.html - Wemos MINI PRO 4MB</sup> 
-
-<sup>https://www.aliexpress.com/item/1005004893349830.html - NodeMCU ESP8266</sup> 
+<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) 
+or
+[NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>  
 
 
 ## 🚀 Web Installer (Recommended)
