@@ -97,21 +97,22 @@ _Почитать подробне о функциях, вы можете [зд�
 ## STL (stl папка)
 Держатели для отражателя который крепится на шатив. Лучше покупать круглые отражатели у них дальность работы выше чем у квадратных.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 1"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 2">
+<img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
+
 
 ## AliExpress.com
 
-<sup>[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м дистанция, ИК-датчик) или [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м дистанция, лазерный датчик)</sup>  
+[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м дистанция, ИК-датчик) или [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м дистанция, лазерный датчик)
 
-<sup>[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Лучше) или [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)</sup>  
+[Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Лучше) или [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)
 
-<sup>[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)</sup>  
+[I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)
 
-<sup>[I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)</sup>  
+[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
 
-<sup>[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
+[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) или [LOLIN D1 Mini](https://www.aliexpress.com/item/1005008132707012.html) (потходит для STL корпуса)
 
-<sup>[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>    
+[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html) 
 
 ## 🚀 Web installer (recommended)
 
