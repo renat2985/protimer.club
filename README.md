@@ -89,7 +89,7 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
 
 ## Contact
 
-You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.gg/3986vwEdf5).
+You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [WhatsApp](https://chat.whatsapp.com/H7IpCrilF00H3wGbANnA1i), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.gg/3986vwEdf5).
 
 Ready-made equipment kits with customization options and additional modules are also available on our website.
 
