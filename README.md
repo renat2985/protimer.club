@@ -120,7 +120,7 @@ All these parts can be found and printed from the stl folder.
 
 [Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) (Suitable for STL case) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) 
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) and [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (For button)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
 [Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
 

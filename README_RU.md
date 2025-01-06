@@ -111,7 +111,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 [Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) и [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (Для кнопки)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
 [Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
 
