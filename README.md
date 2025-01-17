@@ -101,7 +101,12 @@ You can build the device using NodeMCU ESP8266 or Wemos ESP8266. This diagram ap
 
 On the NodeMCU board, the Flash button performs the same functions as the external button connected to D3. If needed, you can use it instead of the external button.
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" height="200px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" height="200px" alt="Connection Diagram 2"> 
+### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m distance, IR sensor)
+
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" height="200px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" height="200px" alt="Connection Diagram 2">
+
+### [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m distance, Laser sensor) 
+
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic3.png" height="200px" alt="Connection Diagram 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic4.png" height="200px" alt="Connection Diagram 4">
 
 ---
