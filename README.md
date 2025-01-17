@@ -136,6 +136,13 @@ All these parts can be found and printed from the stl folder.
 
 [Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)
 
+Other components for E3Z-LAS-R8, NPN NO
+
+[Step-Down Board Mini 360](https://www.aliexpress.com/item/1005005995617482.html)
+
+[Mini DC Boost Converter Board](https://www.aliexpress.com/item/1005007013856492.html)
+
+[1N4728A 3.3V Zener Diode](https://www.aliexpress.com/item/4000297831644.html)
 
 ## 🚀 Web Installer (Recommended)
 
