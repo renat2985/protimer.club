@@ -111,7 +111,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 [I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)
 
-[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005001621784437.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
+[Wemos MINI PRO 4MB](https://www.aliexpress.com/item/1005007081723288.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
 [Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
