@@ -99,6 +99,8 @@ Ready-made equipment kits with customization options and additional modules are 
 
 You can build the device using NodeMCU ESP8266 or Wemos ESP8266. This diagram applies to both the Master and Point (PRO) devices. Choose the appropriate software link below for installation.
 
+On the NodeMCU board, the Flash button performs the same functions as the external button connected to D3. If needed, you can use it instead of the external button.
+
 ### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m distance, IR sensor)
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" height="200px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" height="200px" alt="Connection Diagram 2">
