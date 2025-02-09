@@ -128,8 +128,7 @@ All these parts can be found and printed from the stl folder.
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
 
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0487.jpg" height="200px" alt="Photo 1">
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0488.jpg" height="200px" alt="Photo 2"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0489.jpg" height="200px" alt="Photo 3">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0487.jpg" height="100px" alt="Photo 1"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0488.jpg" height="100px" alt="Photo 2"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0489.jpg" height="100px" alt="Photo 3">
 
 ## From AliExpress.com
 
