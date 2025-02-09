@@ -96,15 +96,16 @@ _Почитать подробне о функциях, вы можете [зд�
 
 ## Pinout Configuration
 
-| **Pin** | **GPIO** | **Function**         |
-|---------|----------|----------------------|
-| **D1**  | GPIO5    | SCK (Display)       |
-| **D2**  | GPIO4    | SDA (Display)       |
-| **RX**  | GPIO3    | IR Sensor           |
-| **D3**  | GPIO0    | Button              |
-| **D7**  | GPIO13   | Active Buzzer       |
-| **D6**  | GPIO12   | Passive Buzzer      |
-| **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6)          |
+| **Pin** | **GPIO** | **Function**              |
+|---------|----------|---------------------------|
+| **D1**  | GPIO5    | SCK (Display)             |
+| **D2**  | GPIO4    | SDA (Display)             |
+| **RX**  | GPIO3    | IR or LASER Sensor        |
+| **D3**  | GPIO0    | Button                    |
+| **D7**  | GPIO13   | Active Buzzer (optional)  |
+| **D6**  | GPIO12   | Passive Buzzer (optional) |
+| **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6)                 |
+
 
 ### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3м "ворота", ИК-датчик)
 
@@ -120,6 +121,9 @@ _Почитать подробне о функциях, вы можете [зд�
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/mirror5.png" height="200px" alt="Reflector Holder 5">
 
+
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0487.jpg" height="200px" alt="Photo 1">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0488.jpg" height="200px" alt="Photo 2"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0489.jpg" height="200px" alt="Photo 3">
 
 ## AliExpress.com
 
