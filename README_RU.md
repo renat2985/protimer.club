@@ -103,13 +103,14 @@ _Почитать подробне о функциях, вы можете [зд�
 | **RX**  | GPIO3    | IR Sensor           |
 | **D3**  | GPIO0    | Button              |
 | **D7**  | GPIO13   | Active Buzzer       |
-| **D0**  | GPIO16   | GATE Relay          |
+| **D6**  | GPIO12   | Passive Buzzer      |
+| **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6)          |
 
-### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3м дистанция, ИК-датчик)
+### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3м "ворота", ИК-датчик)
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" height="200px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" height="200px" alt="Connection Diagram 2"> 
 
-### [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (max 7-8м дистанция, лазерный датчик)
+### [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (max 7-8м "ворота", лазерный датчик)
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic3.png" height="200px" alt="Connection Diagram 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic4.png" height="200px" alt="Connection Diagram 4">
 
@@ -122,7 +123,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 ## AliExpress.com
 
-[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м дистанция, ИК-датчик) или [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м дистанция, лазерный датчик)
+[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3м, ИК-датчик) или [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8м, лазерный датчик)
 
 [Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Лучше) или [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)
 
@@ -132,7 +133,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 [Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
-[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/1005005528181661.html)
+[Passive Buzzer Shield for WEMOS (D6 gpio)](https://www.aliexpress.com/item/1005007463046770.html) or [Active Buzzer Module for Arduino (D7 gpio)](https://www.aliexpress.com/item/1005005528181661.html)
 
 [Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
 
@@ -146,13 +147,15 @@ _Почитать подробне о функциях, вы можете [зд�
 
 [1N4728A 3.3V Zener Diode](https://www.aliexpress.com/item/4000297831644.html)
 
-## 🚀 Веб-установщик (рекомендуется)
+---
 
-### Перейдите на веб-установщик и следуйте инструкциям.
+### 🚀 **Веб-установщик (рекомендуется)**  
+Настройте устройство легко и быстро с помощью веб-установщика. Выберите подходящую версию и следуйте инструкциям.
 
-## Master: [https://renat2985.github.io/protimer.club/](https://renat2985.github.io/protimer.club/)
-## Point (PRO): [https://renat2985.github.io/protimer.club/point.html](https://renat2985.github.io/protimer.club/point.html)
+- **[Master Installer](https://renat2985.github.io/protimer.club/):** Главное устройство, которое будет запоминать время.  
+- **[Point Installer](https://renat2985.github.io/protimer.club/point.html):** Дополнительное устройство, которое фиксирует финиш, промежуточные точки или старт.  
 
+---
 
 ## :battery: Donation
 

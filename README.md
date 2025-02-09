@@ -110,13 +110,14 @@ On the NodeMCU board, the Flash button performs the same functions as the extern
 | **RX**  | GPIO3    | IR, LASER Sensor    |
 | **D3**  | GPIO0    | Button              |
 | **D7**  | GPIO13   | Active Buzzer       |
-| **D0**  | GPIO16   | GATE Relay          |
+| **D6**  | GPIO12   | Passive Buzzer      |
+| **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6)           |
 
-### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3m distance, IR sensor)
+### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3m "gates", IR sensor)
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" height="200px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" height="200px" alt="Connection Diagram 2">
 
-### [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (max 7-8m distance, Laser sensor) 
+### [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (max 7-8m "gates", Laser sensor) 
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic3.png" height="200px" alt="Connection Diagram 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic4.png" height="200px" alt="Connection Diagram 4">
 
@@ -129,7 +130,7 @@ All these parts can be found and printed from the stl folder.
 
 ## From AliExpress.com
 
-[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m distance, IR sensor) or [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m distance, Laser sensor) 
+[E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (2-3m, IR sensor) or [E3Z-LAS-R8, NPN NO](https://www.aliexpress.com/item/1005005879848648.html) (7-8m, Laser sensor) 
 
 [Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Better) or [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Worse)
 
@@ -139,7 +140,7 @@ All these parts can be found and printed from the stl folder.
 
 [Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
-[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/1005005528181661.html)
+[Passive Buzzer Shield for WEMOS (D6 gpio)](https://www.aliexpress.com/item/1005007463046770.html) or [Active Buzzer Module for Arduino (D7 gpio)](https://www.aliexpress.com/item/1005005528181661.html)
 
 [Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
 
@@ -153,12 +154,15 @@ Other components for E3Z-LAS-R8, NPN NO
 
 [1N4728A 3.3V Zener Diode](https://www.aliexpress.com/item/4000297831644.html)
 
-## 🚀 Web Installer (Recommended)
+---
 
-### Follow the instructions on the web installer page.
+### 🚀 **Web Installer (Recommended)**  
+Easily set up your device using the web installer. Choose the appropriate version and follow the instructions.
 
-- **Master:** [https://renat2985.github.io/protimer.club/](https://renat2985.github.io/protimer.club/)  
-- **Point (PRO):** [https://renat2985.github.io/protimer.club/point.html](https://renat2985.github.io/protimer.club/point.html)  
+- **[Master Installer](https://renat2985.github.io/protimer.club/):** The main device that records the time.  
+- **[Point Installer](https://renat2985.github.io/protimer.club/point.html):** An additional device that marks the finish line, checkpoints, or the start.  
+
+---
 
 ## :battery: Donation
 
