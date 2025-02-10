@@ -136,7 +136,7 @@ All these parts can be found and printed from the stl folder.
 
 [Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Better) or [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Worse)
 
-[I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)
+[I2C SSD1315 128x64 1.3inch](https://www.aliexpress.com/item/1005004118377699.html)
 
 [Wemos MINI ESP07](https://www.aliexpress.com/item/1005007081723288.html) (Suitable for STL case) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) 
 

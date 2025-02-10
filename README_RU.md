@@ -130,7 +130,7 @@ _Почитать подробне о функциях, вы можете [зд�
 
 [Reflector TD-05](https://www.aliexpress.com/item/32990489226.html) (Лучше) или [Reflector TD-08](https://www.aliexpress.com/item/1005003584568763.html) (Хуже)
 
-[I2C SSD1315 128x64](https://www.aliexpress.com/item/1005004118377699.html)
+[I2C SSD1315 128x64 1.3inch](https://www.aliexpress.com/item/1005004118377699.html)
 
 [Wemos MINI ESP07](https://www.aliexpress.com/item/1005007081723288.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
