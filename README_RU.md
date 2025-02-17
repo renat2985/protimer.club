@@ -104,7 +104,7 @@ _Почитать подробне о функциях, вы можете [зд�
 | **D3**  | GPIO0    | Button                    |
 | **D7**  | GPIO13   | Active Buzzer (optional)  |
 | **D6**  | GPIO12   | Passive Buzzer (optional) |
-| **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6)                 |
+| **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6) (optional)      |
 
 
 ### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3м "ворота", ИК-датчик)
@@ -121,8 +121,13 @@ _Почитать подробне о функциях, вы можете [зд�
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror5.png" height="200px" alt="Reflector Holder 5">
 
+E3Z-R61
 
-<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0487.jpg" height="100px" alt="Photo 1"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0488.jpg" height="100px" alt="Photo 2"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0489.jpg" height="100px" alt="Photo 3">
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0487.jpg" height="100px" alt="E3Z-R61"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0488.jpg" height="100px" alt="E3Z-R61"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0489.jpg" height="100px" alt="E3Z-R61">
+
+E3Z-LAS-R8, NPN NO
+
+<img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0539.jpg" height="100px" alt="E3Z-LAS-R8, NPN NO"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0540.jpg" height="100px" alt="E3Z-LAS-R8, NPN NO">
 
 ## AliExpress.com
 
