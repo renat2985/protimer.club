@@ -162,6 +162,8 @@ Other components for E3Z-LAS-R8, NPN NO
 
 [1N4728A 3.3V Zener Diode](https://www.aliexpress.com/item/4000297831644.html)
 
+[NFC Tag (NFC213, NFC215, NFC216)](https://www.aliexpress.com/item/1005002932627448.html)
+
 ---
 
 ### 🚀 **Web Installer (Recommended)**  
