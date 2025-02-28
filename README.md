@@ -172,6 +172,13 @@ Easily set up your device using the web installer. Choose the appropriate versio
 - **[Master Installer](https://renat2985.github.io/protimer.club/):** The main device that records the time.  
 - **[Point Installer](https://renat2985.github.io/protimer.club/point.html):** An additional device that marks the finish line, checkpoints, or the start.  
 
+
+### 🚀 **ESP8266 NodeMCU Flasher** 
+- **[Download Installer](https://github.com/renat2985/protimer.club/raw/refs/heads/main/build/protimer.club.zip):** The archive contains two firmware versions: Master and Point.
+    - To flash the Master version, check the box for upgrade128x64.bin.
+    - To flash the Point version, uncheck upgrade128x64.bin and check upgrade_point128x64.bin.
+    ❗ Important: You cannot check two boxes at the same time!
+
 ---
 
 ## :battery: Donation
