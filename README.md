@@ -121,12 +121,8 @@ On the NodeMCU board, the Flash button performs the same functions as the extern
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic3.png" height="200px" alt="Connection Diagram 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic4.png" height="200px" alt="Connection Diagram 4">
 
-## STL (STL Folder)
 
-All these parts can be found and printed from the [stl folder](https://github.com/renat2985/protimer.club/tree/main/stl).
-
-<img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror5.png" height="200px" alt="Reflector Holder 5">
-
+## [Soldering Wemos, step by step](https://github.com/renat2985/protimer.club/discussions/10)
 
 E3Z-R61
 
@@ -135,6 +131,14 @@ E3Z-R61
 E3Z-LAS-R8, NPN NO
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0539.jpg" height="100px" alt="E3Z-LAS-R8, NPN NO"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/IMG_0540.jpg" height="100px" alt="E3Z-LAS-R8, NPN NO">
+
+
+## STL (STL Folder)
+
+All these parts can be found and printed from the [stl folder](https://github.com/renat2985/protimer.club/tree/main/stl).
+
+<img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror5.png" height="200px" alt="Reflector Holder 5">
+
 
 ## From AliExpress.com
 
@@ -150,11 +154,7 @@ E3Z-LAS-R8, NPN NO
 
 [Passive Buzzer Shield for WEMOS (D6 gpio)](https://www.aliexpress.com/item/1005007463046770.html) or [Active Buzzer Module for Arduino (D7 gpio)](https://www.aliexpress.com/item/1005005528181661.html)
 
-[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
-
-[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)
-
-Other components for E3Z-LAS-R8, NPN NO
+Components for E3Z-LAS-R8, NPN NO
 
 [Step-Down Board Mini 360](https://www.aliexpress.com/item/1005005995617482.html)
 
@@ -162,7 +162,16 @@ Other components for E3Z-LAS-R8, NPN NO
 
 [1N4728A 3.3V Zener Diode](https://www.aliexpress.com/item/4000297831644.html)
 
+Other components 
+
 [NFC Tag (NFC213, NFC215, NFC216)](https://www.aliexpress.com/item/1005002932627448.html)
+
+[WiFi Antenna / IPEX Connector)](https://www.aliexpress.com/item/1005005743897181.html)
+
+[Power Bank for 18650 Battery](https://www.aliexpress.com/item/1005002367815544.html)
+
+[Mini Flexible Sponge Octopus Tripod](https://www.aliexpress.com/item/1005004177317958.html)
+
 
 ---
 
@@ -177,6 +186,7 @@ Easily set up your device using the web installer. Choose the appropriate versio
 - **[Download Installer](https://github.com/renat2985/protimer.club/raw/refs/heads/main/build/protimer.club.zip):** The archive contains two firmware versions: Master and Point.
     - To flash the Master version, check the box for upgrade128x64.bin.
     - To flash the Point version, uncheck upgrade128x64.bin and check upgrade_point128x64.bin.
+
     ❗ Important: You cannot check two boxes at the same time!
 
 ---
