@@ -102,8 +102,8 @@ _Почитать подробне о функциях, вы можете [зд�
 | **D2**  | GPIO4    | SDA (Display)             |
 | **RX**  | GPIO3    | IR or LASER Sensor        |
 | **D3**  | GPIO0    | Button                    |
-| **D7**  | GPIO13   | Active Buzzer (optional)  |
-| **D6**  | GPIO12   | Passive Buzzer (optional) |
+| **D7**  | GPIO13   | Passive Buzzer (optional) |
+| **D6**  | GPIO12   | Active Buzzer (optional)  |
 | **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6) (optional)      |
 
 
@@ -147,7 +147,7 @@ E3Z-LAS-R8, NPN NO
 
 [Wemos MINI ESP07](https://www.aliexpress.com/item/1005007081723288.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) (6x6x8mm)
 
 [Passive Buzzer Shield for WEMOS (D6 gpio)](https://www.aliexpress.com/item/1005007463046770.html) or [Active Buzzer Module for Arduino (D7 gpio)](https://www.aliexpress.com/item/1005005528181661.html)
 
