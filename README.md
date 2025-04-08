@@ -109,8 +109,8 @@ On the NodeMCU board, the Flash button performs the same functions as the extern
 | **D2**  | GPIO4    | SDA (Display)             |
 | **RX**  | GPIO3    | IR or LASER Sensor        |
 | **D3**  | GPIO0    | Button                    |
-| **D7**  | GPIO13   | Passive Buzzer (optional) |
-| **D6**  | GPIO12   | Active Buzzer (optional)  |
+| **D7**  | GPIO13   | Active Buzzer (optional)  |
+| **D6**  | GPIO12   | Passive Buzzer (optional) |
 | **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6) (optional)      |
 
 ### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3m "gates", IR sensor)
