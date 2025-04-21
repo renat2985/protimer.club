@@ -133,7 +133,7 @@ E3Z-LAS-R8, NPN NO
 
 #### Для устройства с инфокрасным датчиком: 
 - [Cover Master](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-M-wemos-final-v3.stl), [Cover Point](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-P-wemos-final-v3.stl), [Box](https://github.com/renat2985/protimer.club/blob/main/stl/box-Laser-big-wemos-final-v3.stl).
-- Дизайн от Sergey Kryzhkov: [Box and Cover(M)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_M_by_SergeyKryzhkov.stl), 
+- Дизайн от Sergey K.: [Box and Cover(M)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_M_by_SergeyKryzhkov.stl), 
 [Box and Cover(P)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_P_by_SergeyKryzhkov.stl).
 
 
@@ -195,8 +195,8 @@ E3Z-LAS-R8, NPN NO
 
 ### Благодарности
 Хочу выразить искреннюю благодарность всем, кто помогал проекту своим временем, знаниями и поддержкой. Благодаря вам он становится лучше:
-- Alex Kol
-- Sergey Kruzhkov
+- Alex K.
+- Sergey K.
 
 
 ## :battery: Donation
