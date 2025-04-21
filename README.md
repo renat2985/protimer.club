@@ -137,9 +137,14 @@ E3Z-LAS-R8, NPN NO
 
 All these parts can be found and printed from the [stl folder](https://github.com/renat2985/protimer.club/tree/main/stl).
 
-#### For IR Device: [Cover Master](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-M-wemos-final-v3.stl), [Cover Point](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-P-wemos-final-v3.stl), [Box](https://github.com/renat2985/protimer.club/blob/main/stl/box-Laser-big-wemos-final-v3.stl).
+#### For IR Device: 
+- [Cover Master](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-M-wemos-final-v3.stl), [Cover Point](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-P-wemos-final-v3.stl), [Box](https://github.com/renat2985/protimer.club/blob/main/stl/box-Laser-big-wemos-final-v3.stl).
+- Design by Sergey Kryzhkov: [Box and Cover(M)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_M_by_SergeyKryzhkov.stl), 
+[Box and Cover(P)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_P_by_SergeyKryzhkov.stl).
 
-#### For Laser Device: [Cover Master](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-Laser-M-wemos-final-v3.stl), [Cover Point](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-Laser-P-wemos-final-v3.stl), [Box](https://github.com/renat2985/protimer.club/blob/main/stl/box-big-wemos-final-v3.stl).
+
+#### For Laser Device: 
+- [Cover Master](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-Laser-M-wemos-final-v3.stl), [Cover Point](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-Laser-P-wemos-final-v3.stl), [Box](https://github.com/renat2985/protimer.club/blob/main/stl/box-big-wemos-final-v3.stl).
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror5.png" height="200px" alt="Reflector Holder 5">
 
@@ -192,6 +197,12 @@ Easily set up your device using the web installer. Choose the appropriate versio
     - To flash the Point version, uncheck upgrade128x64.bin and check upgrade_point128x64.bin.
 
     ❗ Important: You cannot check two boxes at the same time!
+
+
+### Acknowledgements
+I would like to express my sincere gratitude to everyone who contributed to the project with their time, knowledge, and support. Thanks to you, it keeps getting better:
+- Alex Kol
+- Sergey Kruzhkov
 
 ---
 
