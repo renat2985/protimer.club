@@ -199,12 +199,13 @@ Easily set up your device using the web installer. Choose the appropriate versio
     ❗ Important: You cannot check two boxes at the same time!
 
 
+---
+
 ### Acknowledgements
 I would like to express my sincere gratitude to everyone who contributed to the project with their time, knowledge, and support. Thanks to you, it keeps getting better:
 - Alex Kol
 - Sergey Kruzhkov
 
----
 
 ## :battery: Donation
 
