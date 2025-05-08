@@ -145,6 +145,9 @@ All these parts can be found and printed from the [stl folder](https://github.co
 
 #### For Laser Device: 
 - [Cover Master](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-Laser-M-wemos-final-v3.stl), [Cover Point](https://github.com/renat2985/protimer.club/blob/main/stl/%D1%81over-Laser-P-wemos-final-v3.stl), [Box](https://github.com/renat2985/protimer.club/blob/main/stl/box-big-wemos-final-v3.stl).
+- Design by Sergey K.: [Box and Cover(M)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_Laser_M_by_SergeyKryzhkov.stl), 
+[Box and Cover(P)](https://github.com/renat2985/protimer.club/blob/main/stl/box_and_cover_Laser_P_by_SergeyKryzhkov.stl).
+
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-big.png" height="200px" alt="Box big"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/box-small.png" height="200px" alt="Box small"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-microUSB.png" height="200px" alt="Cover MicroUSB"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/сover-сable.png" height="200px" alt="Cover cable"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror3.png" height="200px" alt="Reflector Holder 3"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror4.png" height="200px" alt="Reflector Holder 4"> <img src="https://github.com/renat2985/protimer.club/blob/main/stl/othe/mirror5.png" height="200px" alt="Reflector Holder 5">
 
