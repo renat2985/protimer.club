@@ -96,18 +96,18 @@ _Почитать подробне о функциях, вы можете [зд�
 
 ## Pinout Configuration
 
-| **Pin** | **GPIO** | **Function**              |
-|---------|----------|---------------------------|
-| **D1**  | GPIO5    | SCK (Display)             |
-| **D2**  | GPIO4    | SDA (Display)             |
-| **RX**  | GPIO3    | IR or LASER Sensor        |
-| **D3**  | GPIO0    | Button                    |
-| **D7**  | GPIO13   | Active Buzzer (optional)  |
-| **D6**  | GPIO12   | Passive Buzzer (optional) |
+| **Pin** | **GPIO** | **Function**               |
+|---------|----------|----------------------------|
+| **D1**  | GPIO5    | SCK (Display)              |
+| **D2**  | GPIO4    | SDA (Display)              |
+| **RX**  | GPIO3    | IR or LASER Sensor (NPN NO)|
+| **D3**  | GPIO0    | Button                     |
+| **D7**  | GPIO13   | Active Buzzer (optional)   |
+| **D6**  | GPIO12   | Passive Buzzer (optional)  |
 | **D0**  | GPIO16   | [GATE Relay](https://github.com/renat2985/protimer.club/discussions/6) (optional)      |
 
 
-### [E3Z-R61](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3м "ворота", ИК-датчик)
+### [E3Z-R61, NPN NO](https://www.aliexpress.com/item/1005004123351251.html) (max 2-3м "ворота", ИК-датчик)
 
 <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic.png" height="200px" alt="Connection Diagram"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/schematic2.png" height="200px" alt="Connection Diagram 2"> 
 
