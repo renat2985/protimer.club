@@ -40,7 +40,7 @@ _Почитать подробне о функциях, вы можете [зд�
     - Откройте браузер и введите адрес `http://192.168.4.1` для доступа к веб-интерфейсу.
     - Используйте интерфейс для настройки режимов работы, управления таймером и экспорта данных.
 
-        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP3.png" height="400px">
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web1.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web2.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web3.png" height="400px">
 
 3.	**Подключение к роутеру:**
 

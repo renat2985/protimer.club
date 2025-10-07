@@ -43,7 +43,7 @@ _Learn more about the features [here](https://protimer.club/en/doc)._
     - Open a browser and enter the address `http://192.168.4.1` to access the web interface.
     - Use the interface to configure modes, control the timer, and export data.
 
-        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/AP3.png" height="400px">
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web1.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web2.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web3.png" height="400px">
 
 3. **Connecting to the Router:**
 
