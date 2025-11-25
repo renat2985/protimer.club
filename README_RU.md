@@ -40,7 +40,7 @@ _Почитать подробне о функциях, вы можете [зд�
     - Откройте браузер и введите адрес `http://192.168.4.1` для доступа к веб-интерфейсу.
     - Используйте интерфейс для настройки режимов работы, управления таймером и экспорта данных.
 
-        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web1.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web2.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web3.png" height="400px">
+        <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web2.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web3.png" height="400px"> <img src="https://github.com/renat2985/protimer.club/blob/main/doc/web1.png" height="400px">
 
 3.	**Подключение к роутеру:**
 
@@ -193,6 +193,13 @@ E3Z-LAS-R8, NPN NO
     - Для прошивки Point снимите галочку с upgrade128x64.bin и установите её на upgrade_point128x64.bin.
 
     ❗ Важно: Одновременно две галочки ставить нельзя!
+
+---
+
+### Инструкции для пользователей:
+[DPF инуструкция (RUS)](https://github.com/renat2985/protimer.club/blob/main/stl/doc/instruction.pdf)
+[https://protimer.club/install/0000-0000](https://protimer.club/install/0000-0000) - можно менять WiFi парль.
+[https://protimer.club/install/ru/0000-0000](https://protimer.club/install/ru/0000-0000) - можно менять язык и WiFi парль.
 
 ---
 
