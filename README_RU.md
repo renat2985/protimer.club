@@ -197,8 +197,10 @@ E3Z-LAS-R8, NPN NO
 ---
 
 ### Инструкции для пользователей:
-[DPF инуструкция (RUS)](https://github.com/renat2985/protimer.club/blob/main/stl/doc/instruction.pdf)
+[DPF инуструкция (RUS)](https://github.com/renat2985/protimer.club/blob/main/doc/instruction.pdf)
+
 [https://protimer.club/install/0000-0000](https://protimer.club/install/0000-0000) - можно менять WiFi парль.
+
 [https://protimer.club/install/ru/0000-0000](https://protimer.club/install/ru/0000-0000) - можно менять язык и WiFi парль.
 
 ---

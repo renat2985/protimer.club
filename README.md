@@ -206,8 +206,10 @@ Easily set up your device using the web installer. Choose the appropriate versio
 
 Instructions for users:
 
-[DPF instructions (RUS)](https://github.com/renat2985/protimer.club/blob/main/stl/doc/instruction.pdf)
+[DPF instructions (RUS)](https://github.com/renat2985/protimer.club/blob/main/doc/instruction.pdf)
+
 [https://protimer.club/install/0000-0000](https://protimer.club/install/0000-0000) - you can change the WiFi password.
+
 [https://protimer.club/install/en/0000-0000](https://protimer.club/install/ru/0000-0000) - you can change the language and the WiFi password.
 
 ---
